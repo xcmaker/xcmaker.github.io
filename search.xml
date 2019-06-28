@@ -1,38 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[hexo 配置]]></title>
-    <url>%2F1970%2F01%2F01%2Fhexo%20%E9%85%8D%E7%BD%AE%2F</url>
-    <content type="text"><![CDATA[新版本配置文件语言改为 zh-CN，写错显示英文。主题更新时只需要在主题目录下执行 git pull用的来必力评论系统。添加了密码显示模块。如果配置不起作用，试一试 hexo clean]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>hexo 配置</title>
+      <link href="/1970/01/01/hexo%20%E9%85%8D%E7%BD%AE/"/>
+      <url>/1970/01/01/hexo%20%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h3 id="新版本配置文件语言改为-zh-CN，写错显示英文。"><a href="#新版本配置文件语言改为-zh-CN，写错显示英文。" class="headerlink" title="新版本配置文件语言改为 zh-CN，写错显示英文。"></a>新版本配置文件语言改为 zh-CN，写错显示英文。</h3><h3 id="主题更新时只需要在主题目录下执行-git-pull"><a href="#主题更新时只需要在主题目录下执行-git-pull" class="headerlink" title="主题更新时只需要在主题目录下执行  git pull"></a>主题更新时只需要在主题目录下执行  git pull</h3><h3 id="用的来必力评论系统。"><a href="#用的来必力评论系统。" class="headerlink" title="用的来必力评论系统。"></a>用的来必力评论系统。</h3><h3 id="添加了密码显示模块。"><a href="#添加了密码显示模块。" class="headerlink" title="添加了密码显示模块。"></a>添加了密码显示模块。</h3><h3 id="如果配置不起作用，试一试-hexo-clean"><a href="#如果配置不起作用，试一试-hexo-clean" class="headerlink" title="如果配置不起作用，试一试  hexo clean"></a>如果配置不起作用，试一试  hexo clean</h3>]]></content>
+      
+      
       <categories>
-        <category>hexo</category>
+          
+          <category> hexo </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[hexo 配置]]></title>
-    <url>%2F1970%2F01%2F01%2FScratch%2FHello%20World%2F</url>
-    <content type="text"><![CDATA[Welcome to my blog, enter password to read. Incorrect Password! No content to display! U2FsdGVkX19fpKJTqUYOWhIkfMJDQvkHl8sHdKQ3c8f5IX7fO5ftNLot9VoWf1T58pG5Ccs8DpN0qeqBQLKj2NtzXY/SxQe4sDSzU43xOJHh0aXSaKfWPKnwAAv1lRaJBOlLGgWZLRykSlYg2pZGhaBHMEh/LfOQJ5edfZsB+QURaFyd0lQHYJGv42csDP1/EMY8ea/f2+p/kZYd2k0f0vvCVDRLl+I/qFkXBuFFgVCs5+CQjZ9UMC/ume7oiz7zGaNvaQmCuFhKtoHCepnKmNdT0/sGM4k3VA3OLusjvIWeJU1ngHPl0C3tcn+PIhw9bI84geVd79awsLreX43gpHrtYWp49A0Uitw8gORAnWxZLv3NgPXRygFTNDS20uKgvoh8IBGmeCXrKe+OguHv3qLkdVeL7x99mT9ZP8aL9E8y1QrqU4bvYNG3J4yp3ggJvsJ5tYWIZXIWrmxR4idm+xDxs0AGuc+bO1hfhBGqPb/8TTDdBZJ4FV5wgF0Vi6zFL+YbLYN4ygOgxDNjlVomHSTVAUowJvCDwuRX6BYe8Ne26jU1Xsp0nPzql5RPbBya0z4hgE5eH9LDrJP6SW6W+yus/XbwkXFS+LWLLqxGJj12CjvCp61LcLnO2aG0G9LzwgV4RzPy87kLv3t39wsreGKyWFR1PH/NfpRAF2Z30GxIpbty+YpvMBx+TnJ/UxmfmW15GpZAgJJodaFjjRnF4r2qv9+bIRAqFl4KiSpFEUxusgvmbWv44YvTvOMWcon8x8sH8s5eN76jCN2sM2467r4MB/Fq+71aHyKx92ydufZOBCYzAQac6y9wRPdZWpisydBYxxxBTlm678l3+lwG9kxFAzM17jeCk7iaONJSh+rW7IbFBQmllWTD4D/A5NtOytFVGJJBexeZSS1lNHrbw5S2JDhVp6g4J6RQMDSP0h3Syj9/zBToQzM7TsQYlEk1tP4bRGNMQ3pLl/3cMawZR5eqxPyF6laa5G9uFrBVadRhGlyZBr/wx9H/Bqq9gUf254Kjv9h0ptC2Hp23QB8ZTlXzuy/ihL6Ebjl5imub7LcDU/4twa2/nxfNXcrGtJcHh4Y3a06NcF/8bldcvZrZzmfmEHQhbah6aeqJt//ja4ut78LNONIe7gCAHfmoONvzp+gyeqn3eBEBOoTkFtVFNpbKpOqJD5P1yohQpNuAikm/zyjMoDrSap7G5nIyZnu820VgCmd8+eVLSBziOOJ1rQ==]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo 配置</title>
+      <link href="/1970/01/01/Scratch/Hello%20World/"/>
+      <url>/1970/01/01/Scratch/Hello%20World/</url>
+      
+        <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Welcome to my blog, enter password to read." />    <label for="pass">Welcome to my blog, enter password to read.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX19fpKJTqUYOWhIkfMJDQvkHl8sHdKQ3c8f5IX7fO5ftNLot9VoWf1T58pG5Ccs8DpN0qeqBQLKj2NtzXY/SxQe4sDSzU43xOJHh0aXSaKfWPKnwAAv1lRaJBOlLGgWZLRykSlYg2pZGhaBHMEh/LfOQJ5edfZsB+QURaFyd0lQHYJGv42csDP1/EMY8ea/f2+p/kZYd2k0f0vvCVDRLl+I/qFkXBuFFgVCs5+CQjZ9UMC/ume7oiz7zGaNvaQmCuFhKtoHCepnKmNdT0/sGM4k3VA3OLusjvIWeJU1ngHPl0C3tcn+PIhw9bI84geVd79awsLreX43gpHrtYWp49A0Uitw8gORAnWxZLv3NgPXRygFTNDS20uKgvoh8IBGmeCXrKe+OguHv3qLkdVeL7x99mT9ZP8aL9E8y1QrqU4bvYNG3J4yp3ggJvsJ5tYWIZXIWrmxR4idm+xDxs0AGuc+bO1hfhBGqPb/8TTDdBZJ4FV5wgF0Vi6zFL+YbLYN4ygOgxDNjlVomHSTVAUowJvCDwuRX6BYe8Ne26jU1Xsp0nPzql5RPbBya0z4hgE5eH9LDrJP6SW6W+yus/XbwkXFS+LWLLqxGJj12CjvCp61LcLnO2aG0G9LzwgV4RzPy87kLv3t39wsreGKyWFR1PH/NfpRAF2Z30GxIpbty+YpvMBx+TnJ/UxmfmW15GpZAgJJodaFjjRnF4r2qv9+bIRAqFl4KiSpFEUxusgvmbWv44YvTvOMWcon8x8sH8s5eN76jCN2sM2467r4MB/Fq+71aHyKx92ydufZOBCYzAQac6y9wRPdZWpisydBYxxxBTlm678l3+lwG9kxFAzM17jeCk7iaONJSh+rW7IbFBQmllWTD4D/A5NtOytFVGJJBexeZSS1lNHrbw5S2JDhVp6g4J6RQMDSP0h3Syj9/zBToQzM7TsQYlEk1tP4bRGNMQ3pLl/3cMawZR5eqxPyF6laa5G9uFrBVadRhGlyZBr/wx9H/Bqq9gUf254Kjv9h0ptC2Hp23QB8ZTlXzuy/ihL6Ebjl5imub7LcDU/4twa2/nxfNXcrGtJcHh4Y3a06NcF/8bldcvZrZzmfmEHQhbah6aeqJt//ja4ut78LNONIe7gCAHfmoONvzp+gyeqn3eBEBOoTkFtVFNpbKpOqJD5P1yohQpNuAikm/zyjMoDrSap7G5nIyZnu820VgCmd8+eVLSBziOOJ1rQ==</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
       <categories>
-        <category>hexo</category>
+          
+          <category> hexo </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[打砖块]]></title>
-    <url>%2F1970%2F01%2F01%2FScratch%2F%E6%89%93%E7%A0%96%E5%9D%97%2F</url>
-    <content type="text"><![CDATA[同学们都玩过打砖块游戏吧. 挑战任务1设计舞台和角色。设计挡板的功能，让挡板能够跟随鼠标移动。]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>打砖块</title>
+      <link href="/1970/01/01/Scratch/%E6%89%93%E7%A0%96%E5%9D%97/"/>
+      <url>/1970/01/01/Scratch/%E6%89%93%E7%A0%96%E5%9D%97/</url>
+      
+        <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Welcome to my blog, enter password to read." />    <label for="pass">Welcome to my blog, enter password to read.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1+vNZTtnuhAJdTJ56QEBodzcq32w6Q622rLg+ldfVk/c2/UklUUnV5+mFUn2eumJT0YzMQqIIupZMiwTPpYcJEq8aC08Z5OGUlYZwSFG4HbfMCcYLjTVtgf/112q0ekiRAfRSYjMTdwcM1lp5tbSQH9pmQZbCEhEZ4DXtj45QYtndErkTidjYZZ4xTflWbbSY5V2NQVdKEP7nvwjbhdEGYCt+2CTs6OXISxQWZ4XM2zC4QWlZWxqFGe2qXDjbPJq5GVAqt54F++zqustPQIbuIeagN7AineXoqgA+KxIIwWWm9fFXWJpuIDUpKPS/1lShOqaNVnkAmJ1xWZCCquVOQzWh8zsPXbcph1PnUrBauYss+YtaV8YrMZL9lPmdyquUH0+s3TUCaAYtDWhFjRsqN+1kDUUPkGjWgDk+hNDrm4EOEYHHidsOYg+16I7Vqg5z2iHTZ2O35Dr1/7s1G23j5uthueEpeeIPHUPXoACPSqOKGIW3A7tAI2X0Ykkf2NqC8hAD37CSRhTkowpX0fvgWKSrkoXz0/E0Xh9yt3JfSmKjhWsIjvmzsZl4x1dVzhrL2V7PPKf7x3zuzQDQl8qyK6dIs8D25zmFQYgBNdJgIQ8yh8dqjWjev3Kf7RNfxfXUGDEtVVPlQjI3mlkRO1hKWAuGfJcshJtaBTGzkKvheCxLzY+3soT7Ls8FqWIhym6FOV7JS7aTm0rsqZ787jzveNI5OmZceBR94roqAEOyJ5y/4QNOiCbPHKukUzGW0LHzcBgVOYupXYDH+puSbFDhO5OeSUm36bUa8VrFklGkjK3Hh0/WOu+1AaupOAXI1PdyQgJ5OZ3mskDQ0zSI5iVNqI19f9iEykWRbM2eZyLFAZrkChIWm7vUF9xoljaqvEwOQQhIloYu6u3MBpvCZzx1S3obflNqx1GZfi5qrJCvo68fUYCrUygWt9lJn9kEy0TWSC8KDEoWy8LjlF9HhwumY33odfQxOcUrJ8x9QvFM3CyVMXA57jWF/juUYkXwjj/Lq3oaX3LshBQOkHtO37yDv+hQobZzyqw/OEu4Zd92CHOa1MNppubu5hau1znOk1pFi9K37POdHPjTjdMjhqcPn9PQGhGgPX+NnjqZS4pMb24hkqh784AzKkN1njNutt050uDz6SAC6O6w3lUQ2BeAhRqqBj3Mb7Xkzns0UeS38jIOaLaI0PnQOFOAUNqs9y5uVji9ofnMD9Ng==</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
       <categories>
-        <category>Scratch</category>
+          
+          <category> Scratch </category>
+          
       </categories>
-      <tags>
-        <tag>Scratch</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[如何在Linux的桌面上创建快捷方式或启动器]]></title>
-    <url>%2F1970%2F01%2F01%2FUbuntu%2F%E5%A6%82%E4%BD%95%E5%9C%A8Linux%E7%9A%84%E6%A1%8C%E9%9D%A2%E4%B8%8A%E5%88%9B%E5%BB%BA%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E6%88%96%E5%90%AF%E5%8A%A8%E5%99%A8.1%2F</url>
-    <content type="text"><![CDATA[在GNOME桌面下创建快捷方式在GNOME桌面环境下，你可以使用gnome-desktop-item-edit轻松创建创建一个桌面快捷方式。 1sudo apt-get install gnome-panel 1gonme-desktop-item-edit ~/.local/share/applications --create-new 在这个例子中，gnome-desktop-item-edit会在目录～/.local/share/applications中自动创建一个桌面启动器文件。若是想自定义快捷方式图标或者其它信息，你可以手动编辑.desktop文件。]]></content>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>如何在Linux的桌面上创建快捷方式或启动器</title>
+      <link href="/1970/01/01/Ubuntu/%E5%A6%82%E4%BD%95%E5%9C%A8Linux%E7%9A%84%E6%A1%8C%E9%9D%A2%E4%B8%8A%E5%88%9B%E5%BB%BA%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E6%88%96%E5%90%AF%E5%8A%A8%E5%99%A8.1/"/>
+      <url>/1970/01/01/Ubuntu/%E5%A6%82%E4%BD%95%E5%9C%A8Linux%E7%9A%84%E6%A1%8C%E9%9D%A2%E4%B8%8A%E5%88%9B%E5%BB%BA%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E6%88%96%E5%90%AF%E5%8A%A8%E5%99%A8.1/</url>
+      
+        <content type="html"><![CDATA[<h3 id="在GNOME桌面下创建快捷方式"><a href="#在GNOME桌面下创建快捷方式" class="headerlink" title="在GNOME桌面下创建快捷方式"></a>在GNOME桌面下创建快捷方式</h3><p>在GNOME桌面环境下，你可以使用gnome-desktop-item-edit轻松创建创建一个桌面快捷方式。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install gnome-panel</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">gonme-desktop-item-edit ~/.local/share/applications --create-new</span><br></pre></td></tr></table></figure><p>在这个例子中，gnome-desktop-item-edit会在目录～/.local/share/applications中自动创建一个桌面启动器文件。若是想自定义快捷方式图标或者其它信息，你可以手动编辑.desktop文件。</p>]]></content>
+      
+      
       <categories>
-        <category>Ubuntu</category>
+          
+          <category> Ubuntu </category>
+          
       </categories>
-  </entry>
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
