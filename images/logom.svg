@@ -15,7 +15,10 @@
    version="1.1"
    id="svg16"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="美客图标.svg">
+   sodipodi:docname="美客图标.svg"
+   inkscape:export-filename="/home/wjunjie/美客图标.png.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs10" />
   <sodipodi:namedview
@@ -26,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.90625"
-     inkscape:cx="16"
-     inkscape:cy="19.316284"
+     inkscape:cx="4.7151277"
+     inkscape:cy="17.575129"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -63,14 +66,15 @@
        style="stroke-width:0.32219639" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1.0146693"
-       y="295.70258"
-       id="text28"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44125128px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1860313"
+       x="1.5549808"
+       y="255.83603"
+       id="text28"
+       transform="scale(0.86532618,1.1556336)"><tspan
          sodipodi:role="line"
          id="tspan26"
-         x="1.0146693"
-         y="295.70258"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#ffffff;stroke-width:0.26458332">M</tspan></text>
+         x="1.5549808"
+         y="255.83603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'方正粗黑宋简体';-inkscape-font-specification:'方正粗黑宋简体';fill:#ffffff;stroke-width:0.1860313">M</tspan></text>
   </g>
 </svg>
