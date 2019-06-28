@@ -6,11 +6,6 @@
     <content type="text"><![CDATA[Welcome to my blog, enter password to read. Incorrect Password! No content to display! U2FsdGVkX1/AP0CUXewmIIQWnR1wDujmthzW3E46regOFrnNedGeEdK+lOC9RqqrQdtt5tmmzNlDkU9z2crGAy0EHYBX0AWLYWiRKbBWIQhmtAVuux5Hs19h7H68suFgrImTayODdgJi+S+kYgGKgRX2t4jfqT+dqKBAXtj/+Gaboon4ywRkBkGuAtAmDc3KtCk8PtrA3+9BS5rKdpFZHukZp8ULHc/JYv7ZAy5TOBqKdnKtLMihLdtNfou/ORCR45ZsVHgstlfOmK1W7eukJsRltANgdugpkm7HTS6Ntc7qn99Ui3KStrxF5Xg4flzP/ZZNjmnVPSK3/W2XmjHv2+IAnCKpB0dVMZ7SeioesE34nI+LLs9J8M+i90oh6Gfh2cCLSk8MkqsGiLrMSQJYaCXPczKC43eNn5oIxnOJGEZS9O5bAh2mWwwFfEuiTeflAaDliDaHck9Uf3W20ZpiVh0NSRSg5gvEgCMR+wS0X9YifFK9QeyoMyHwf6g33KpAEtjfRWQk58aqygB+8MQhT9idWjzwoNiq8A9RtrBQOCEET4Ln3yumys3nkW4ep8spS7IX9eFlb4xQR8uCHP9AgYSrDNrFiie3O9GlV6ytWHRGy+mhwSrtxCY5NksrpUSqWvPUmrCxN+yKHhFIQBM46rKbegn0Eba3HJPVy5An9yXXJeNyRhgD93B80c3JWRsJFPuPfykA/dCBnCn6urEiVjJtm9sC5u/7jA5W8Cy1LzSt+j7evxSrffkEZT6fUkTg7mItb8tcSRRQocY4MsqO2yf02RHSNkdLQijOZ/1lFVowi3z2P0LixOmwwJcTb3PwXq+PUioy18M0vj9SXV/cJ4E8bXaWU1keoqllTCjcktkDQyPdcXSdu30/lIZFhkheo2HNBqLGsTEee7s2bT5F4y98cHMq1xeNDFf76PwQAPNHxxK4ZYluoLB1bimCQAAW5TbFln5zdNEcv/VyshHjGLVfFKM5B7H5/5smMm6Q6nAnjOXTNgQo9GVh7tx1LyvwOSmh04A8Lsm7nvgZewBu37jaWZZ9QCkWjspkZoI6yIQu8GkykPWM/76C6Hd5H9u3axNnVuqK58KoYwDWh/+BMxzBaek6/1VMSG0lpmqJu7sS7nTsIGSX2mWCCO4a12I95U+2XyW2SmQ6vhD4jVSyH7XK0snvM1aavvRgN0/5Wyitqy1etVORZszqq8kl20TbPh4xYiWj6XkNtH5Uw3DEww==]]></content>
   </entry>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2016%2F03%2F30%2FScratch%2FHello%20World%EF%BC%88%E5%A4%8D%E4%BB%B6%EF%BC%89%2F</url>
-    <content type="text"><![CDATA[挑战任务1设计舞台和角色。设计挡板的功能，让挡板能够跟随鼠标移动。 挑战任务1设计舞台和角色。设计挡板的功能，让挡板能够跟随鼠标移动。 挑战任务1设计舞台和角色。设计挡板的功能，让挡板能够跟随鼠标移动。 挑战任务1设计舞台和角色。设计挡板的功能，让挡板能够跟随鼠标移动。 挑战任务1设计舞台和角色。设计挡板的功能，让挡板能够跟随鼠标移动。 挑战任务1设计舞台和角色。设计挡板的功能，让挡板能够跟随鼠标移动。 挑战任务1设计舞台和角色。设计挡板的功能，让挡板能够跟随鼠标移动。]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[打砖块]]></title>
     <url>%2F1970%2F01%2F01%2FScratch%2F%E6%89%93%E7%A0%96%E5%9D%97%2F</url>
     <content type="text"><![CDATA[同学们都玩过打砖块游戏吧. 挑战任务1设计舞台和角色。设计挡板的功能，让挡板能够跟随鼠标移动。]]></content>
@@ -27,19 +22,11 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[如何在Linux的桌面上创建快捷方式或启动器]]></title>
-    <url>%2F1970%2F01%2F01%2FUbuntu%2F%E5%A6%82%E4%BD%95%E5%9C%A8Linux%E7%9A%84%E6%A1%8C%E9%9D%A2%E4%B8%8A%E5%88%9B%E5%BB%BA%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E6%88%96%E5%90%AF%E5%8A%A8%E5%99%A8.2%2F</url>
-    <content type="text"><![CDATA[在GNOME桌面下创建快捷方式在GNOME桌面环境下，你可以使用gnome-desktop-item-edit轻松创建创建一个桌面快捷方式。 1sudo apt-get install gnome-panel 1gonme-desktop-item-edit ~/.local/share/applications --create-new 在这个例子中，gnome-desktop-item-edit会在目录～/.local/share/applications中自动创建一个桌面启动器文件。若是想自定义快捷方式图标或者其它信息，你可以手动编辑.desktop文件。]]></content>
+    <title><![CDATA[hexo 配置]]></title>
+    <url>%2F1970%2F01%2F01%2Fhexo%20%E9%85%8D%E7%BD%AE%2F</url>
+    <content type="text"><![CDATA[新版本配置文件语言改为 zh-CN，写错显示英文。主题更新时只需要在主题目录下执行 git pull用的来必力评论系统。添加了密码显示模块。]]></content>
       <categories>
-        <category>Ubuntu</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[如何在Linux的桌面上创建快捷方式或启动器]]></title>
-    <url>%2F1970%2F01%2F01%2FUbuntu%2F%E5%A6%82%E4%BD%95%E5%9C%A8Linux%E7%9A%84%E6%A1%8C%E9%9D%A2%E4%B8%8A%E5%88%9B%E5%BB%BA%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E6%88%96%E5%90%AF%E5%8A%A8%E5%99%A8%2F</url>
-    <content type="text"><![CDATA[在GNOME桌面下创建快捷方式在GNOME桌面环境下，你可以使用gnome-desktop-item-edit轻松创建创建一个桌面快捷方式。 1sudo apt-get install gnome-panel 1gonme-desktop-item-edit ~/.local/share/applications --create-new 在这个例子中，gnome-desktop-item-edit会在目录～/.local/share/applications中自动创建一个桌面启动器文件。若是想自定义快捷方式图标或者其它信息，你可以手动编辑.desktop文件。]]></content>
-      <categories>
-        <category>Ubuntu</category>
+        <category>hexo</category>
       </categories>
   </entry>
 </search>
