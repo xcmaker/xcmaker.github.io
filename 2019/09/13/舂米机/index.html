@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<html class="theme-next pisces use-motion" lang="zh-CN">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
+<meta name="theme-color" content="#222"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css?v=4.7.0"/>
+
+<link rel="stylesheet" href="/css/main.css?v=7.1.2"/>
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png?v=7.1.2">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon.svg?v=7.1.2">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon.svg?v=7.1.2">
+
+
+  <link rel="mask-icon" href="/images/logom.svg?v=7.1.2" color="#222">
+
+
+
+
+
+
+
+<script id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '7.1.2',
+    sidebar: {"position":"left","display":"post","offset":12,"onmobile":false,"dimmer":false},
+    back2top: true,
+    back2top_sidebar: false,
+    fancybox: false,
+    fastclick: false,
+    lazyload: false,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+  
+
+
+
+
+  <meta name="description" content="欢迎来到欢迎来到瓦力工厂机器人构建中心，联系作者阅读。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="舂米机">
+<meta property="og:url" content="http://yoursite.com/2019/09/13/%E8%88%82%E7%B1%B3%E6%9C%BA/index.html">
+<meta property="og:site_name" content="瓦力工厂">
+<meta property="og:description" content="欢迎来到欢迎来到瓦力工厂机器人构建中心，联系作者阅读。">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2019-09-13T10:31:49.000Z">
+<meta property="article:modified_time" content="2019-09-13T10:34:59.613Z">
+<meta property="article:author" content="美克机器人">
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+  
+  
+  <link rel="canonical" href="http://yoursite.com/2019/09/13/%E8%88%82%E7%B1%B3%E6%9C%BA/"/>
+
+
+
+<script id="page.configurations">
+  CONFIG.page = {
+    sidebar: "",
+  };
+</script>
+
+  <title>舂米机 | 瓦力工厂</title>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .motion-element,
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-title { opacity: initial; }
+
+  .use-motion .logo,
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+<meta name="generator" content="Hexo 4.2.1"></head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-CN">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">瓦力工厂</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+    
+      
+        <p class="site-subtitle">许昌创客培训交流中心</p>
+      
+    
+    
+  </div>
+
+  <div class="site-nav-toggle">
+    <button aria-label="切换导航栏">
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  
+    <ul id="menu" class="menu">
+      
+        
+        
+        
+          
+          <li class="menu-item menu-item-home">
+
+    
+    
+      
+    
+
+    
+
+    <a href="/" rel="section">&lt;i class&#x3D;&quot;menu-item-icon fa fa-fw fa-home&quot;&gt;&lt;&#x2F;i&gt; &lt;br&#x2F;&gt;首页</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-about">
+
+    
+    
+      
+    
+
+    
+
+    <a href="/about/" rel="section">&lt;i class&#x3D;&quot;menu-item-icon fa fa-fw fa-user&quot;&gt;&lt;&#x2F;i&gt; &lt;br&#x2F;&gt;关于</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-tags">
+
+    
+    
+      
+    
+
+    
+
+    <a href="/tags/" rel="section">&lt;i class&#x3D;&quot;menu-item-icon fa fa-fw fa-tags&quot;&gt;&lt;&#x2F;i&gt; &lt;br&#x2F;&gt;标签</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-categories">
+
+    
+    
+      
+    
+
+    
+
+    <a href="/categories/" rel="section">&lt;i class&#x3D;&quot;menu-item-icon fa fa-fw fa-th&quot;&gt;&lt;&#x2F;i&gt; &lt;br&#x2F;&gt;分类</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-archives">
+
+    
+    
+      
+    
+
+    
+
+    <a href="/archives/" rel="section">&lt;i class&#x3D;&quot;menu-item-icon fa fa-fw fa-archive&quot;&gt;&lt;&#x2F;i&gt; &lt;br&#x2F;&gt;归档</a>
+
+  </li>
+
+      
+      
+    </ul>
+  
+
+  
+
+  
+</nav>
+
+
+
+  
+
+
+
+</div>
+    </header>
+
+    
+
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+            
+
+          
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/09/13/%E8%88%82%E7%B1%B3%E6%9C%BA/"/>
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="美克机器人"/>
+      <meta itemprop="description" content=""/>
+      <meta itemprop="image" content="/images/avatar.gif"/>
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="瓦力工厂"/>
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">舂米机
+
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2019-09-13 18:31:49 / 修改时间：18:34:59" itemprop="dateCreated datePublished" datetime="2019-09-13T18:31:49+08:00">2019-09-13</time>
+            
+
+            
+              
+
+              
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%8C%E7%BA%A7%E6%A8%A1%E5%9E%8B/" itemprop="url" rel="index"><span itemprop="name">机器人二级模型</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<div id="hbe-security">
+  <div class="hbe-input-container">
+  <input type="password" class="hbe-form-control" id="pass" placeholder="欢迎来到欢迎来到瓦力工厂机器人构建中心，联系作者阅读。" />
+    <label for="pass">欢迎来到欢迎来到瓦力工厂机器人构建中心，联系作者阅读。</label>
+    <div class="bottom-line"></div>
+  </div>
+</div>
+<div id="decryptionError" style="display: none;">Incorrect Password!</div>
+<div id="noContentError" style="display: none;">No content to display!</div>
+<div id="encrypt-blog" style="display:none">
+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
+</div>
+<script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+      
+    
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2019/09/13/%E4%B9%8C%E9%BE%9F/" rel="next" title="乌龟">
+                <i class="fa fa-chevron-left"></i> 乌龟
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2019/09/20/%E6%97%8B%E8%BD%AC%E6%9D%AF%E5%AD%90/" rel="prev" title="旋转杯子">
+                旋转杯子 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+  </div>
+
+
+          </div>
+          
+
+  
+    <div class="comments" id="comments">
+      <div id="lv-container" data-id="city" data-uid="MTAyMC80NDk0Ny8yMTQ2OA=="></div>
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+
+      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <p class="site-author-name" itemprop="name">美克机器人</p>
+              <div class="site-description motion-element" itemprop="description"></div>
+          </div>
+
+          
+            <nav class="site-state motion-element">
+              
+                <div class="site-state-item site-state-posts">
+                
+                  <a href="/archives/%20%7C%7C%20archive">
+                
+                    <span class="site-state-item-count">37</span>
+                    <span class="site-state-item-name">日志</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-categories">
+                  
+                    
+                      <a href="/categories/%20%7C%7C%20th">
+                    
+                  
+                    
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">10</span>
+                    <span class="site-state-item-name">分类</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  
+                    
+                      <a href="/tags/%20%7C%7C%20tags">
+                    
+                  
+                    
+                    
+                      
+                    
+                    <span class="site-state-item-count">1</span>
+                    <span class="site-state-item-name">标签</span>
+                  </a>
+                </div>
+              
+            </nav>
+          
+
+          
+
+          
+
+          
+
+          
+
+          
+          
+
+          
+            
+          
+          
+
+        </div>
+      </div>
+
+      
+
+      
+
+    </div>
+  </aside>
+  
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2020</span>
+  <span class="with-love" id="animate">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">美克机器人</span>
+
+  
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> 强力驱动 v4.2.1</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 – <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Pisces</a> v7.1.2</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+    
+
+    
+  </div>
+
+  
+
+<script>
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script src="/lib/jquery/index.js?v=3.4.1"></script>
+
+  
+  <script src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+
+  
+
+
+  <script src="/js/utils.js?v=7.1.2"></script>
+
+  <script src="/js/motion.js?v=7.1.2"></script>
+
+
+
+  
+  
+
+
+  <script src="/js/affix.js?v=7.1.2"></script>
+
+  <script src="/js/schemes/pisces.js?v=7.1.2"></script>
+
+
+
+  
+  <script src="/js/scrollspy.js?v=7.1.2"></script>
+<script src="/js/post-details.js?v=7.1.2"></script>
+
+
+
+  
+
+
+  <script src="/js/next-boot.js?v=7.1.2"></script>
+
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    <script>
+  window.livereOptions = {
+    refer: '2019/09/13/舂米机/'
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+</script>
+
+  
+
+
+  
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>
