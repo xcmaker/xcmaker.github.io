@@ -1,312 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
   <url>
     <loc>http://yoursite.com/2020/07/08/%E7%B1%B3%E6%80%9D%E9%BD%90%E4%BD%BF%E7%94%A8/</loc>
-    
-    <lastmod>2020-07-08T11:33:34.541Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2020-07-08</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2020/07/05/python%E6%8E%A8%E5%AF%BC%E5%BC%8F/</loc>
-    
-    <lastmod>2020-07-05T08:22:21.298Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2020-07-05</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2020/07/04/%E7%91%9E%E5%A3%AB%E5%86%9B%E5%88%80/</loc>
-    
-    <lastmod>2020-07-05T07:47:38.477Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2020-07-04T14:24:23.824Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2020-07-05</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2020/07/04/%E5%9D%9A%E6%8C%81%E5%8A%AA%E5%8A%9B/</loc>
-    
-    <lastmod>2020-07-04T12:23:34.495Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/10/17/%E7%A8%8B%E5%BA%8F/</loc>
-    
-    <lastmod>2019-10-17T10:27:31.647Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-10-17</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/1970/01/01/%E6%99%BA%E8%83%BD%E5%9B%AD%E8%89%BA%E5%AE%B6%E7%A8%8B%E5%BA%8F%E8%AE%B2%E8%A7%A3/</loc>
-    
-    <lastmod>2019-10-17T10:10:23.034Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-10-17</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/10/15/%E6%99%BA%E8%83%BD%E5%9B%AD%E8%89%BA%E5%AE%B6/</loc>
-    
-    <lastmod>2019-10-17T10:10:14.328Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-10-17</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/09/20/%E6%97%8B%E8%BD%AC%E6%9D%AF%E5%AD%90/</loc>
-    
-    <lastmod>2019-09-20T12:52:35.222Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-09-20</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/09/20/%E5%85%AD%E8%B6%B3%E6%AD%A5%E8%A1%8C%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
-    
-    <lastmod>2019-09-20T12:41:27.436Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-09-20</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/09/13/%E8%88%82%E7%B1%B3%E6%9C%BA/</loc>
-    
-    <lastmod>2019-09-13T10:34:59.613Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-09-13</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/09/13/%E4%B9%8C%E9%BE%9F/</loc>
-    
-    <lastmod>2019-09-13T10:34:53.802Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-09-13</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/08/29/%E7%9B%B4%E5%8D%87%E9%A3%9E%E6%9C%BA/</loc>
-    
-    <lastmod>2019-09-13T10:22:09.128Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-09-13</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/09/13/%E6%8C%96%E6%8E%98%E6%9C%BA/</loc>
-    
-    <lastmod>2019-09-13T10:22:05.719Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-09-13</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/08/20/%E7%A8%BB%E8%8D%89%E4%BA%BA/</loc>
-    
-    <lastmod>2019-09-13T10:22:01.861Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-09-13</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/08/30/%E6%8A%BD%E6%B2%B9%E6%9C%BA/</loc>
-    
-    <lastmod>2019-09-13T10:21:59.877Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-09-13</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/08/29/%E6%9C%BA%E6%A2%B0%E5%B0%BA%E8%A0%96/</loc>
-    
-    <lastmod>2019-09-13T10:21:57.689Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-09-13</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/09/13/%E7%BC%9D%E7%BA%AB%E6%9C%BA/</loc>
-    
-    <lastmod>2019-09-13T10:21:55.218Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-09-13</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/08/29/%E5%90%8E%E8%BD%AE%E9%A9%B1%E5%8A%A8%E8%BD%A6/</loc>
-    
-    <lastmod>2019-09-13T10:21:51.809Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-09-13</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/31/%E9%93%B6%E6%B2%B3%E8%A1%A5%E4%B9%A0%E7%8F%AD%E4%B8%AD%E7%9A%84%E6%95%99%E8%82%B2%E7%97%9B%E7%82%B9/</loc>
-    
-    <lastmod>2019-07-31T13:43:56.304Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-31</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/30/%E8%AE%A9Arduino%E8%AF%B4%E5%87%BAHelloWorld/</loc>
-    
-    <lastmod>2019-07-30T09:17:18.309Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-30</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/30/Inkscape%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
-    
-    <lastmod>2019-07-30T08:49:36.017Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-30</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/22/%E7%81%AD%E7%81%AB%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
-    
-    <lastmod>2019-07-22T14:55:22.428Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-22</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/20/%E6%8A%95%E7%9F%B3%E6%9C%BA/</loc>
-    
-    <lastmod>2019-07-19T16:45:17.781Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-19</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/07/%E6%99%BA%E8%83%BD%E5%8F%B0%E7%81%AF/</loc>
-    
-    <lastmod>2019-07-15T17:40:04.146Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-15</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/16/%E6%A9%A1%E7%9A%AE%E7%AD%8B%E6%9C%BA%E6%9E%AA/</loc>
-    
-    <lastmod>2019-07-15T17:33:43.158Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-15</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/10/%E6%99%BA%E8%83%BD%E5%9E%83%E5%9C%BE%E6%A1%B6/</loc>
-    
-    <lastmod>2019-07-10T16:03:03.783Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-10</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/05/%E6%9C%BA%E6%A2%B0%E6%89%8B%E8%87%82/</loc>
-    
-    <lastmod>2019-07-07T01:41:02.799Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-07</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/04/%E7%86%8A%E7%8C%AB%E8%B7%B3%E5%9C%88%E5%9C%88/</loc>
-    
-    <lastmod>2019-07-05T10:47:13.709Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-05</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/04/%E8%9C%9C%E8%9C%82%E6%95%B0%E8%8A%B1%E6%9C%B5/</loc>
-    
-    <lastmod>2019-07-05T10:46:01.409Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-05</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/04/%E5%B0%8F%E9%AC%BC%E5%BD%93%E5%AE%B6/</loc>
-    
-    <lastmod>2019-07-05T10:44:10.721Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-05</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/05/%E9%80%89%E8%AF%BE/</loc>
-    
-    <lastmod>2019-07-05T02:57:30.819Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-05</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/04/%E6%8E%B7%E9%AA%B0%E5%AD%90/</loc>
-    
-    <lastmod>2019-07-04T08:35:02.223Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-04</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/06/29/%E8%B5%84%E6%BA%90%E6%8A%A2%E5%A4%BA%E8%B5%9B%E9%9B%86%E8%AE%AD%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92/</loc>
-    
-    <lastmod>2019-07-04T08:34:36.893Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-04</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/06/29/%E8%BF%B7%E5%AE%AB%E6%8E%A2%E5%AE%9D/</loc>
-    
-    <lastmod>2019-07-04T04:06:00.106Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-04</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/01/%E5%B0%8F%E8%83%96%E6%8A%93%E5%B0%8F%E5%81%B7/</loc>
-    
-    <lastmod>2019-07-01T06:00:19.733Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-01</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/06/29/%E9%A3%9E%E7%BF%94%E7%9A%84%E5%B0%8F%E9%B8%9F/</loc>
-    
-    <lastmod>2019-07-01T05:51:36.166Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-01</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/06/30/%E6%8E%A5%E9%87%91%E5%B8%81/</loc>
-    
-    <lastmod>2019-07-01T05:51:31.552Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-01</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/06/28/%E6%89%93%E7%A0%96%E5%9D%97/</loc>
-    
-    <lastmod>2019-07-01T05:51:28.468Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-01</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/01/%E6%98%9F%E9%99%85%E8%BF%B7%E8%88%AA/</loc>
-    
-    <lastmod>2019-07-01T03:40:11.360Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-01</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/06/28/Ubuntu/%E5%A6%82%E4%BD%95%E5%9C%A8Linux%E7%9A%84%E6%A1%8C%E9%9D%A2%E4%B8%8A%E5%88%9B%E5%BB%BA%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E6%88%96%E5%90%AF%E5%8A%A8%E5%99%A8/</loc>
-    
-    <lastmod>2019-07-01T02:25:43.168Z</lastmod>
-    
-  </url>
-  
-  <url>
+    <lastmod>2019-07-01</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/06/28/hexo%20%E9%85%8D%E7%BD%AE/</loc>
-    
-    <lastmod>2019-06-28T07:45:32.273Z</lastmod>
-    
+    <lastmod>2019-06-28</lastmod>
   </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
-    
-    <lastmod>2019-06-28T06:53:29.436Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2019-06-28T06:52:52.873Z</lastmod>
-    
-  </url>
-  
 </urlset>
