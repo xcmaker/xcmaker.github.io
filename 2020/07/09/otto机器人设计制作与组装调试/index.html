@@ -20,28 +20,35 @@
     var CONFIG = {"hostname":"yoursite.com","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta property="og:type" content="website">
-<meta property="og:title" content="非柚科创">
-<meta property="og:url" content="http://yoursite.com/index.html">
+  <meta name="description" content="[TOC] 一切如何开始早在2016年，创始人兼工程师Camilo Parra Palacio就提出了一个想法。在上海为一家跨国充气玩具制造商工作时，他了解到中国最早的Hackerspace。在那里，他开始玩DIY机器人并进行实验。令他惊讶的是，DIY机器人只有专业人员才能使用，而公众却不了解。在找到适合所有年龄段的易于制造的机器人之后，他意识到自己需要做的事情。将任何人都可以制造的机器人推向市场">
+<meta property="og:type" content="article">
+<meta property="og:title" content="otto机器人设计制作与组装调试">
+<meta property="og:url" content="http://yoursite.com/2020/07/09/otto%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%AE%BE%E8%AE%A1%E5%88%B6%E4%BD%9C%E4%B8%8E%E7%BB%84%E8%A3%85%E8%B0%83%E8%AF%95/index.html">
 <meta property="og:site_name" content="非柚科创">
+<meta property="og:description" content="[TOC] 一切如何开始早在2016年，创始人兼工程师Camilo Parra Palacio就提出了一个想法。在上海为一家跨国充气玩具制造商工作时，他了解到中国最早的Hackerspace。在那里，他开始玩DIY机器人并进行实验。令他惊讶的是，DIY机器人只有专业人员才能使用，而公众却不了解。在找到适合所有年龄段的易于制造的机器人之后，他意识到自己需要做的事情。将任何人都可以制造的机器人推向市场">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/838564/601191_602168.jpeg">
+<meta property="og:image" content="https://s1.ax1x.com/2020/07/09/UehzFO.jpg">
+<meta property="article:published_time" content="2020-07-09T03:01:02.000Z">
+<meta property="article:modified_time" content="2020-07-16T10:17:06.801Z">
 <meta property="article:author" content="晓">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/838564/601191_602168.jpeg">
 
-<link rel="canonical" href="http://yoursite.com/">
+<link rel="canonical" href="http://yoursite.com/2020/07/09/otto%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%AE%BE%E8%AE%A1%E5%88%B6%E4%BD%9C%E4%B8%8E%E7%BB%84%E8%A3%85%E8%B0%83%E8%AF%95/">
 
 
 <script id="page-configurations">
   // https://hexo.io/docs/variables.html
   CONFIG.page = {
     sidebar: "",
-    isHome : true,
-    isPost : false,
+    isHome : false,
+    isPost : true,
     lang   : 'zh-CN'
   };
 </script>
 
-  <title>非柚科创</title>
+  <title>otto机器人设计制作与组装调试 | 非柚科创</title>
   
 
 
@@ -170,9 +177,10 @@
         <div class="content-wrap">
           
 
-          <div class="content index posts-expand">
+          <div class="content post posts-expand">
             
-      
+
+    
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
@@ -188,10 +196,9 @@
       <meta itemprop="name" content="非柚科创">
     </span>
       <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2020/07/09/otto%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%AE%BE%E8%AE%A1%E5%88%B6%E4%BD%9C%E4%B8%8E%E7%BB%84%E8%A3%85%E8%B0%83%E8%AF%95/" class="post-title-link" itemprop="url">otto机器人设计制作与组装调试</a>
-        </h2>
+        <h1 class="post-title" itemprop="name headline">
+          otto机器人设计制作与组装调试
+        </h1>
 
         <div class="post-meta">
             <span class="post-meta-item">
@@ -221,7 +228,7 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>[TOC]</p>
+        <p>[TOC]</p>
 <h3 id="一切如何开始"><a href="#一切如何开始" class="headerlink" title="一切如何开始"></a><strong>一切如何开始</strong></h3><p><strong>早在2016年，创始人兼工程师Camilo Parra Palacio就提出了一个想法。在上海为一家跨国充气玩具制造商工作时，他了解到中国最早的Hackerspace。在那里，他开始玩DIY机器人并进行实验。令他惊讶的是，DIY机器人只有专业人员才能使用，而公众却不了解。在找到适合所有年龄段的易于制造的机器人之后，他意识到自己需要做的事情。将任何人都可以制造的机器人推向市场。因此，奥托诞生了！</strong></p>
 <p><img src="https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/838564/601191_602168.jpeg"></p>
 <h3 id="预备知识"><a href="#预备知识" class="headerlink" title="*预备知识 *"></a>*<em>预备知识 *</em></h3><h4 id="制图-amp-amp-建模"><a href="#制图-amp-amp-建模" class="headerlink" title="制图&amp;&amp;建模"></a>制图&amp;&amp;建模</h4><h5 id="长度单位"><a href="#长度单位" class="headerlink" title="长度单位"></a>长度单位</h5><p>长度单位是指丈量<a href="https://baike.baidu.com/item/%E7%A9%BA%E9%97%B4%E8%B7%9D%E7%A6%BB/8965556" target="_blank" rel="noopener">空间距离</a>上的<a href="https://baike.baidu.com/item/%E5%9F%BA%E6%9C%AC%E5%8D%95%E5%85%83/3100939" target="_blank" rel="noopener">基本单元</a>，是人类为了规范长度而制定的基本单位。其国际单位是“<a href="https://baike.baidu.com/item/%E7%B1%B3/7572407" target="_blank" rel="noopener">米</a>”（符号“m”），常用的单位有<a href="https://baike.baidu.com/item/%E5%8D%83%E7%B1%B3/90449" target="_blank" rel="noopener">千米</a>（km）、米（m）、<a href="https://baike.baidu.com/item/%E5%88%86%E7%B1%B3/2652346" target="_blank" rel="noopener">分米</a>（dm）<a href="https://baike.baidu.com/item/%E5%8E%98%E7%B1%B3/195825" target="_blank" rel="noopener">厘米</a>（cm）、<a href="https://baike.baidu.com/item/%E6%AF%AB%E7%B1%B3" target="_blank" rel="noopener">毫米</a>（mm）、微米（μm）、纳米（nm）等等。长度单位在各个领域都有重要的作用。</p>
@@ -264,649 +271,31 @@
 <p>(6)其他结构尺寸的注法[1] 光滑过渡处的尺寸注法 在光滑过渡处注尺寸，必须用细实线将轮廓线延长，从交点处引尺寸界线。尺寸线应平行于两交点的连线。[2] 板状零件和正方形结构的注法　板状零件的厚度可在尺寸数字前加注符号“t”。标注机件的断面为正方形结构的尺寸时，可在边长尺寸数字前加注符号“□”或注“边长×边长”。[3]均匀分布成组结构的注法　均匀分布的成组结构，标其中一个，在尺寸标记组成是 “个数×尺寸（均布）”的形式。当成组结构的定位和分布情况明确时，可不标注其角度并省略“均布”二字或用EQS代表“均布”二字。 [1]</p>
 <h4 id="FreeCAD"><a href="#FreeCAD" class="headerlink" title="FreeCAD"></a>FreeCAD</h4><h5 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h5><p>FreeCAD是一个基于OpenCASCADE的开源CAD/CAE工具。 OpenCASCADE是一套开源的CAD/CAM/CAE几何模型核心，来自法国Matra Datavision公司，是著名的CAD软件EUCLID的开发平台。<br>可运行于 windows 以及 linux 系统环境下<br>FreeCAD是一种通用的3D CAD建模。发展是完全开源（GPL的LGPL许可证）。FreeCAD直接的目的是在机械工程和产品设计，也适合在更广泛的用途，如建筑或其他工程专业，工程周围。</p>
 <h5 id="拉伸（凸台与凹坑）"><a href="#拉伸（凸台与凹坑）" class="headerlink" title="拉伸（凸台与凹坑）"></a>拉伸（凸台与凹坑）</h5><h5 id="旋转（旋转体与旋转槽）"><a href="#旋转（旋转体与旋转槽）" class="headerlink" title="旋转（旋转体与旋转槽）"></a>旋转（旋转体与旋转槽）</h5>
-      
     </div>
 
     
     
     
+
       <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
 
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2020/07/08/%E7%B1%B3%E6%80%9D%E9%BD%90%E4%BD%BF%E7%94%A8/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="晓">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="非柚科创">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2020/07/08/%E7%B1%B3%E6%80%9D%E9%BD%90%E4%BD%BF%E7%94%A8/" class="post-title-link" itemprop="url">米思齐使用</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-              
-
-              <time title="创建时间：2020-07-08 19:30:34 / 修改时间：19:33:34" itemprop="dateCreated datePublished" datetime="2020-07-08T19:30:34+08:00">2020-07-08</time>
-            </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h3 id="米思齐的如果那么里面如果有多条伺服马达的程序-会产生很奇怪的程序问题，所以，一个判断里面放一条伺服马达的程序。"><a href="#米思齐的如果那么里面如果有多条伺服马达的程序-会产生很奇怪的程序问题，所以，一个判断里面放一条伺服马达的程序。" class="headerlink" title="米思齐的如果那么里面如果有多条伺服马达的程序,会产生很奇怪的程序问题，所以，一个判断里面放一条伺服马达的程序。"></a>米思齐的如果那么里面如果有多条伺服马达的程序,会产生很奇怪的程序问题，所以，一个判断里面放一条伺服马达的程序。</h3>
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2020/07/05/python%E6%8E%A8%E5%AF%BC%E5%BC%8F/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="晓">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="非柚科创">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2020/07/05/python%E6%8E%A8%E5%AF%BC%E5%BC%8F/" class="post-title-link" itemprop="url">python推导式</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-              
-
-              <time title="创建时间：2020-07-05 16:08:11 / 修改时间：16:22:21" itemprop="dateCreated datePublished" datetime="2020-07-05T16:08:11+08:00">2020-07-05</time>
-            </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h3 id="python推导式的用法"><a href="#python推导式的用法" class="headerlink" title="python推导式的用法"></a>python推导式的用法</h3><h4 id="推导式comprehensions（又称解析式），是Python的一种独有特性。推导式是可以从一个数据序列构建另一个新的数据序列的结构体。"><a href="#推导式comprehensions（又称解析式），是Python的一种独有特性。推导式是可以从一个数据序列构建另一个新的数据序列的结构体。" class="headerlink" title="推导式comprehensions（又称解析式），是Python的一种独有特性。推导式是可以从一个数据序列构建另一个新的数据序列的结构体。"></a>推导式comprehensions（又称解析式），是Python的一种独有特性。推导式是可以从一个数据序列构建另一个新的数据序列的结构体。</h4><ul>
-<li>列表(list)推导式</li>
-<li>字典(dict)推导式</li>
-<li>集合(set)推导式</li>
-</ul>
-<h4 id="x-for-x-in-data-if-condition"><a href="#x-for-x-in-data-if-condition" class="headerlink" title="x for x in data if condition"></a>x for x in data if condition</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&gt;&gt;&gt; names &#x3D; [&#39;Bob&#39;,&#39;Tom&#39;,&#39;alice&#39;,&#39;Jerry&#39;,&#39;Wendy&#39;,&#39;Smith&#39;]</span><br><span class="line">&gt;&gt;&gt; new_names &#x3D; [name.upper()for name in names if len(name)&gt;3]</span><br><span class="line">&gt;&gt;&gt; print(new_names)</span><br><span class="line">&gt;&gt;&gt; [&#39;ALICE&#39;, &#39;JERRY&#39;, &#39;WENDY&#39;, &#39;SMITH&#39;]</span><br></pre></td></tr></table></figure>
-
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2020/07/04/%E7%91%9E%E5%A3%AB%E5%86%9B%E5%88%80/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="晓">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="非柚科创">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2020/07/04/%E7%91%9E%E5%A3%AB%E5%86%9B%E5%88%80/" class="post-title-link" itemprop="url">瑞士军刀</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              <time title="创建时间：2020-07-04 22:40:50" itemprop="dateCreated datePublished" datetime="2020-07-04T22:40:50+08:00">2020-07-04</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2020-07-05 15:47:38" itemprop="dateModified" datetime="2020-07-05T15:47:38+08:00">2020-07-05</time>
-              </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          欢迎来到欢迎来到瓦力工厂机器人构建中心，联系作者阅读。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2020/07/04/%E7%91%9E%E5%A3%AB%E5%86%9B%E5%88%80/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
         
-      
-    </div>
 
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
 
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2020/07/04/%E5%9D%9A%E6%8C%81%E5%8A%AA%E5%8A%9B/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="晓">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="非柚科创">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2020/07/04/%E5%9D%9A%E6%8C%81%E5%8A%AA%E5%8A%9B/" class="post-title-link" itemprop="url">坚持努力</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-              
-
-              <time title="创建时间：2020-07-04 20:22:48 / 修改时间：20:23:34" itemprop="dateCreated datePublished" datetime="2020-07-04T20:22:48+08:00">2020-07-04</time>
-            </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          欢迎来到欢迎来到瓦力工厂机器人构建中心，联系作者阅读。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2020/07/04/%E5%9D%9A%E6%8C%81%E5%8A%AA%E5%8A%9B/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
         
-      
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2020/07/08/%E7%B1%B3%E6%80%9D%E9%BD%90%E4%BD%BF%E7%94%A8/" rel="prev" title="米思齐使用">
+      <i class="fa fa-chevron-left"></i> 米思齐使用
+    </a></div>
+      <div class="post-nav-item"></div>
     </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
       </footer>
+    
   </article>
   
   
   
-
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/10/17/%E7%A8%8B%E5%BA%8F/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="晓">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="非柚科创">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2019/10/17/%E7%A8%8B%E5%BA%8F/" class="post-title-link" itemprop="url">程序</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-              
-
-              <time title="创建时间：2019-10-17 18:26:15 / 修改时间：18:27:31" itemprop="dateCreated datePublished" datetime="2019-10-17T18:26:15+08:00">2019-10-17</time>
-            </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          欢迎来到欢迎来到瓦力工厂机器人构建中心，联系作者阅读。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2019/10/17/%E7%A8%8B%E5%BA%8F/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/10/15/%E6%99%BA%E8%83%BD%E5%9B%AD%E8%89%BA%E5%AE%B6/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="晓">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="非柚科创">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2019/10/15/%E6%99%BA%E8%83%BD%E5%9B%AD%E8%89%BA%E5%AE%B6/" class="post-title-link" itemprop="url">智能园艺家</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              <time title="创建时间：2019-10-15 18:20:07" itemprop="dateCreated datePublished" datetime="2019-10-15T18:20:07+08:00">2019-10-15</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2019-10-17 18:10:14" itemprop="dateModified" datetime="2019-10-17T18:10:14+08:00">2019-10-17</time>
-              </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          欢迎来到欢迎来到瓦力工厂机器人构建中心，联系作者阅读。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2019/10/15/%E6%99%BA%E8%83%BD%E5%9B%AD%E8%89%BA%E5%AE%B6/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/09/20/%E5%85%AD%E8%B6%B3%E6%AD%A5%E8%A1%8C%E6%9C%BA%E5%99%A8%E4%BA%BA/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="晓">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="非柚科创">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2019/09/20/%E5%85%AD%E8%B6%B3%E6%AD%A5%E8%A1%8C%E6%9C%BA%E5%99%A8%E4%BA%BA/" class="post-title-link" itemprop="url">六足步行机器人</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-              
-
-              <time title="创建时间：2019-09-20 20:18:40 / 修改时间：20:41:27" itemprop="dateCreated datePublished" datetime="2019-09-20T20:18:40+08:00">2019-09-20</time>
-            </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-folder"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%8C%E7%BA%A7%E6%A8%A1%E5%9E%8B/" itemprop="url" rel="index"><span itemprop="name">机器人二级模型</span></a>
-                </span>
-            </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          欢迎来到欢迎来到瓦力工厂机器人构建中心，联系作者阅读。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2019/09/20/%E5%85%AD%E8%B6%B3%E6%AD%A5%E8%A1%8C%E6%9C%BA%E5%99%A8%E4%BA%BA/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/09/20/%E6%97%8B%E8%BD%AC%E6%9D%AF%E5%AD%90/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="晓">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="非柚科创">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2019/09/20/%E6%97%8B%E8%BD%AC%E6%9D%AF%E5%AD%90/" class="post-title-link" itemprop="url">旋转杯子</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-              
-
-              <time title="创建时间：2019-09-20 20:17:46 / 修改时间：20:52:35" itemprop="dateCreated datePublished" datetime="2019-09-20T20:17:46+08:00">2019-09-20</time>
-            </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-folder"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%8C%E7%BA%A7%E6%A8%A1%E5%9E%8B/" itemprop="url" rel="index"><span itemprop="name">机器人二级模型</span></a>
-                </span>
-            </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          欢迎来到欢迎来到瓦力工厂机器人构建中心，联系作者阅读。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2019/09/20/%E6%97%8B%E8%BD%AC%E6%9D%AF%E5%AD%90/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/09/13/%E8%88%82%E7%B1%B3%E6%9C%BA/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="晓">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="非柚科创">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2019/09/13/%E8%88%82%E7%B1%B3%E6%9C%BA/" class="post-title-link" itemprop="url">舂米机</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-              
-
-              <time title="创建时间：2019-09-13 18:31:49 / 修改时间：18:34:59" itemprop="dateCreated datePublished" datetime="2019-09-13T18:31:49+08:00">2019-09-13</time>
-            </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-folder"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%8C%E7%BA%A7%E6%A8%A1%E5%9E%8B/" itemprop="url" rel="index"><span itemprop="name">机器人二级模型</span></a>
-                </span>
-            </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          欢迎来到欢迎来到瓦力工厂机器人构建中心，联系作者阅读。
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/2019/09/13/%E8%88%82%E7%B1%B3%E6%9C%BA/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-
-  
-  <nav class="pagination">
-    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><span class="space">&hellip;</span><a class="page-number" href="/page/5/">5</a><a class="extend next" rel="next" href="/page/2/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
-  </nav>
 
 
 
@@ -958,6 +347,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一切如何开始"><span class="nav-number">1.</span> <span class="nav-text">一切如何开始</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#预备知识"><span class="nav-number">2.</span> <span class="nav-text">*预备知识 *</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#制图-amp-amp-建模"><span class="nav-number">2.1.</span> <span class="nav-text">制图&amp;&amp;建模</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#长度单位"><span class="nav-number">2.1.1.</span> <span class="nav-text">长度单位</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#游标卡尺"><span class="nav-number">2.1.2.</span> <span class="nav-text">游标卡尺</span></a></li></ol></li><li class="nav-item nav-level-4"><a class="nav-link" href="#"><span class="nav-number">2.2.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#机械制图"><span class="nav-number">2.3.</span> <span class="nav-text">机械制图</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#基本要求"><span class="nav-number">2.4.</span> <span class="nav-text">基本要求</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#图纸幅面"><span class="nav-number">2.4.1.</span> <span class="nav-text">图纸幅面</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#图框格式"><span class="nav-number">2.4.2.</span> <span class="nav-text">图框格式</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#标题栏"><span class="nav-number">2.4.3.</span> <span class="nav-text">标题栏</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#比例"><span class="nav-number">2.4.4.</span> <span class="nav-text">比例</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#字体"><span class="nav-number">2.4.5.</span> <span class="nav-text">字体</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#图线"><span class="nav-number">2.4.6.</span> <span class="nav-text">图线</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#尺寸标注"><span class="nav-number">2.4.7.</span> <span class="nav-text">尺寸标注</span></a></li></ol></li><li class="nav-item nav-level-4"><a class="nav-link" href="#FreeCAD"><span class="nav-number">2.5.</span> <span class="nav-text">FreeCAD</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#简介"><span class="nav-number">2.5.1.</span> <span class="nav-text">简介</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#拉伸（凸台与凹坑）"><span class="nav-number">2.5.2.</span> <span class="nav-text">拉伸（凸台与凹坑）</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#旋转（旋转体与旋转槽）"><span class="nav-number">2.5.3.</span> <span class="nav-text">旋转（旋转体与旋转槽）</span></a></li></ol></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
