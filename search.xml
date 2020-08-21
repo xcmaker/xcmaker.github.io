@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title>使用过程中的几个技巧</title>
+      <link href="/2020/08/01/%E4%BD%BF%E7%94%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%87%A0%E4%B8%AA%E6%8A%80%E5%B7%A7/"/>
+      <url>/2020/08/01/%E4%BD%BF%E7%94%A8%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%87%A0%E4%B8%AA%E6%8A%80%E5%B7%A7/</url>
+      
+        <content type="html"><![CDATA[<h3 id="组件生成工程图"><a href="#组件生成工程图" class="headerlink" title="组件生成工程图"></a>组件生成工程图</h3><h3 id="导入的组件-stp-文件怎么保存成单个零件"><a href="#导入的组件-stp-文件怎么保存成单个零件" class="headerlink" title="导入的组件.stp 文件怎么保存成单个零件"></a>导入的组件.stp 文件怎么保存成单个零件</h3><h3 id="怎么修改-stl文件或-stp文件"><a href="#怎么修改-stl文件或-stp文件" class="headerlink" title="怎么修改.stl文件或.stp文件"></a>怎么修改<em>.stl文件或</em>.stp文件</h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>瓦力机器人制作</title>
+      <link href="/2020/07/25/%E7%93%A6%E5%8A%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%B6%E4%BD%9C/"/>
+      <url>/2020/07/25/%E7%93%A6%E5%8A%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%B6%E4%BD%9C/</url>
+      
+        <content type="html"><![CDATA[<h3 id="零件清单"><a href="#零件清单" class="headerlink" title="零件清单"></a>零件清单</h3><ul><li>boyun-a.stl  </li></ul><p>el-b-x2.stl    kafa-b.stl      palet-e-sol.stl  vucut-a.stl<br>boyun-b.stl  el-c-x2.stl    kol-a-x2.stl    palet-f-sag.stl  vucut-b.stl<br>boyun-c.stl  el-e-x2.stl    kol-b-x2.stl    palet-g-sol.stl  vucut-c.stl<br>boyun-d.stl  el-f-x2.stl    kol-c-x2.stl    palet-h-sag.stl  vucut-d.stl<br>boyun-e.stl  goz-a-sol.stl  kol-d-x2.stl    palet-i-x2.stl   vucut-e-x2.stl<br>boyun-f.stl  goz-b-sag.stl  kol-e-x2.stl    palet-j-sol.stl  vucut-f.stl<br>boyun-g.stl  goz-c.stl      kol-f-x2.stl    palet-k-sag.stl  vucut-g.stl<br>boyun-h.stl  goz-d.stl      kol-g-sag.stl   palet-l-x4.stl   vucut-h.stl<br>boyun-i.stl  goz-e-sol.stl  kol-h-sol.stl   palet-m-x2.stl   vucut-i.stl<br>boyun-j.stl  goz-f-sag.stl  palet-a-x2.stl  palet-n-x8.stl<br>boyun-k.stl  goz-g-sol.stl  palet-b-x6.stl  palet-o-x2.stl<br>boyun-l.stl  goz-h-sag.stl  palet-c-x8.stl  pin-x140.stl<br>el-a-x2.stl  kafa-a.stl     palet-d-x4.stl  </p><ul><li>pin-x70.stl:履带文件</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Appinventor环境搭建</title>
       <link href="/2020/07/23/Appinventor%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
       <url>/2020/07/23/Appinventor%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</url>
@@ -767,6 +793,19 @@
       <url>/1970/01/01/Sratch%E8%AF%BE%E7%A8%8B%E5%85%AC%E5%91%8A/</url>
       
         <content type="html"><![CDATA[<p>[TOC]</p><h3 id="熊猫散步"><a href="#熊猫散步" class="headerlink" title="熊猫散步"></a>熊猫散步</h3><ul><li><p>认识慧编程。</p></li><li><p>认识运动，控制,外观模块。</p></li><li><p>学习控制模块中的重复执行逻辑。</p></li><li><p>重难点–设置熊猫的旋转方式。</p></li></ul><h3 id="活泼的Crab"><a href="#活泼的Crab" class="headerlink" title="活泼的Crab"></a>活泼的Crab</h3><ul><li>认识外观，声音模块。</li><li>学会添加角色的造型。</li><li>简单认识随机数。</li><li>重难点–用程序控制角色造型的切换。</li></ul><h3 id="舞会"><a href="#舞会" class="headerlink" title="舞会"></a>舞会</h3><ul><li>控制模块中时间的作用。</li><li>多个造型重复切换的编程逻辑。</li><li>背景重复切换的编程逻辑。</li><li>区分声音模块中播放声音与播放声音等待播放完毕两个指令。</li><li>重难点–对两个角色分别编程。</li></ul><h3 id="Pico秀"><a href="#Pico秀" class="headerlink" title="Pico秀"></a>Pico秀</h3><ul><li>如何用程序控制角色的朝向。</li><li>认识并运用外观模块中的“说”指令。</li><li>区分程序的顺序执行与重复执行。</li><li>重难点–理解程序块，学习程序块的定义。</li></ul><h3 id="贺卡"><a href="#贺卡" class="headerlink" title="贺卡"></a>贺卡</h3><ul><li>背景的意义与切换</li><li>“如果…那么…”控制逻辑的学习。</li><li>外观模块中显示与隐藏的意义与作用。</li><li>运动模块中“移到…”与“在1秒内滑行到的区别”。</li><li>重难点–多角色的程序组合。</li></ul><h3 id="龙珠"><a href="#龙珠" class="headerlink" title="龙珠"></a>龙珠</h3><ul><li>认识运动模块中的移到随机位置指令。</li><li>认识运动模块中“面向”与“将旋转方式设为左右翻转”混合编程。</li><li>学习Scratch 编写故事的方法与逻辑。</li></ul><h3 id="动画主题复习"><a href="#动画主题复习" class="headerlink" title="动画主题复习"></a>动画主题复习</h3><ul><li>用键盘控制角色运动。</li><li>用键盘控制角色跳动。</li><li>用键盘控制角色执行一系列动作。</li><li>重难点–修改素材，制作动画。</li></ul><h3 id="乒乓球赛"><a href="#乒乓球赛" class="headerlink" title="乒乓球赛"></a>乒乓球赛</h3><ul><li><p>认识程序的并行执行</p></li><li><p>认识变量并掌握变量的创建方法。</p></li><li><p>学会使用侦测模块的“鼠标的X坐标模块”。</p></li><li><p>重难点–控制模块中的“重复执行“与“如果…那么…“的混合编程。</p></li></ul><h3 id="装扮特拉"><a href="#装扮特拉" class="headerlink" title="装扮特拉"></a>装扮特拉</h3><ul><li>移到与在1秒内移到的区别。</li><li>舞台区角色的图层。</li><li>角色的位置与其程序坐标的对应关系。</li><li>重难点–角色位置与角色的角色图层配合。</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一套零件成本</title>
+      <link href="/1970/01/01/%E7%AC%AC%E4%B8%80%E5%A5%97%E9%9B%B6%E4%BB%B6%E6%88%90%E6%9C%AC/"/>
+      <url>/1970/01/01/%E7%AC%AC%E4%B8%80%E5%A5%97%E9%9B%B6%E4%BB%B6%E6%88%90%E6%9C%AC/</url>
+      
+        <content type="html"><![CDATA[<h3 id="第一套器材成本明细"><a href="#第一套器材成本明细" class="headerlink" title="第一套器材成本明细"></a>第一套器材成本明细</h3><table><thead><tr><th>序号</th><th>名称</th><th>数量</th><th>单价</th><th>备注</th></tr></thead><tbody><tr><td>1</td><td>十字螺丝刀</td><td>1</td><td>8</td><td></td></tr><tr><td>2</td><td>外六角套筒螺丝刀</td><td>1</td><td>8</td><td></td></tr><tr><td>3</td><td>5格中号收纳盒</td><td>1</td><td>4</td><td></td></tr><tr><td>4</td><td>UNO开发板</td><td>1</td><td>60</td><td></td></tr><tr><td>5</td><td>结构板一套</td><td>1</td><td></td><td></td></tr><tr><td></td><td>主架构板</td><td>3</td><td></td><td></td></tr><tr><td></td><td>3x</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>大轮子</td><td>2</td><td>5</td><td></td></tr><tr><td>6</td><td>触碰开关</td><td>4</td><td></td><td></td></tr><tr><td>7</td><td>LED灯</td><td>3</td><td></td><td></td></tr><tr><td>8</td><td>红外线传感器</td><td>2</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>]]></content>
       
       
       
