@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as i,ae as t}from"./chunks/framework.EHGTsUvI.js";const b=JSON.parse('{"title":"AI智能","description":"","frontmatter":{},"headers":[],"relativePath":"ai/README.md","filePath":"ai/README.md"}'),h={name:"ai/README.md"};function o(l,a,n,d,s,c){return r(),i("div",null,[...a[0]||(a[0]=[t("",22)])])}const q=e(h,[["render",o]]);export{b as __pageData,q as default};
