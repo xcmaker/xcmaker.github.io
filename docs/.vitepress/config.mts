@@ -38,22 +38,6 @@ export default defineConfig({
         background: rgba(255,255,255,0.15) !important;
       }
 
-      /* 下拉菜单 */
-      .VPFlyout .menu {
-        background: #fff !important;
-        border: 1px solid rgba(37, 99, 235, 0.2);
-        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-      }
-
-      .VPMenuLink a, .VPFlyout .button .text {
-        color: #1e40af !important;
-      }
-
-      .VPMenuLink a:hover {
-        background: rgba(37, 99, 235, 0.1) !important;
-        color: #2563eb !important;
-      }
-
       /* 侧边栏科技蓝 */
       .VPSidebar {
         background: #f8fafc !important;
@@ -115,20 +99,6 @@ export default defineConfig({
 
       [data-theme="dark"] .VPFooter {
         background: linear-gradient(90deg, #0f172a 0%, #1e293b 100%);
-      }
-
-      /* 深色模式下拉菜单 */
-      [data-theme="dark"] .VPFlyout .menu {
-        background: #1e293b !important;
-        border: 1px solid rgba(59, 130, 246, 0.3);
-      }
-
-      [data-theme="dark"] .VPMenuLink a, [data-theme="dark"] .VPFlyout .button .text {
-        color: #60a5fa !important;
-      }
-
-      [data-theme="dark"] .VPMenuLink a:hover {
-        background: rgba(59, 130, 246, 0.2) !important;
       }
     `]
   ],
