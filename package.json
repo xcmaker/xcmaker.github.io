@@ -1,0 +1,17 @@
+{
+  "name": "walikechuang-docs",
+  "version": "1.0.0",
+  "description": "瓦力科创 DIY军火库，万物皆可ZAO",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "vitepress": "^1.3.0"
+  },
+  "devDependencies": {
+    "vue": "^3.4.0"
+  }
+}
